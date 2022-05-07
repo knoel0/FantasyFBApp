@@ -505,7 +505,7 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.dll": {}
         }
       },
-      "Microsoft.CodeAnalysis.dotnetcoremvc/3.3.1": {
+      "Microsoft.CodeAnalysis.CSharp/3.3.1": {
         "dependencies": {
           "Microsoft.CodeAnalysis.Common": "3.3.1"
         },
@@ -689,7 +689,7 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Workspaces.dll": {}
         }
       },
-      "Microsoft.dotnetcoremvc/4.7.0": {},
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Data.SqlClient/1.1.3": {
         "dependencies": {
           "Microsoft.Identity.Client": "3.0.8",
@@ -4357,11 +4357,11 @@
       "path": "microsoft.codeanalysis.common/3.3.1",
       "hashPath": "microsoft.codeanalysis.common.3.3.1.nupkg.sha512"
     },
-    "Microsoft.CodeAnalysis.dotnetcoremvc/3.3.1": {
+    "Microsoft.CodeAnalysis.CSharp/3.3.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-WDUIhTHem38H6VJ98x2Ssq0fweakJHnHYl7vbG8ARnsAwLoJKCQCy78EeY1oRrCKG42j0v6JVljKkeqSDA28UA==",
-      "path": "microsoft.codeanalysis.dotnetcoremvc/3.3.1",
+      "path": "microsoft.codeanalysis.csharp/3.3.1",
       "hashPath": "microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.CSharp.Workspaces/3.3.1": {
@@ -4385,11 +4385,11 @@
       "path": "microsoft.codeanalysis.workspaces.common/3.3.1",
       "hashPath": "microsoft.codeanalysis.workspaces.common.3.3.1.nupkg.sha512"
     },
-    "Microsoft.dotnetcoremvc/4.7.0": {
+    "Microsoft.CSharp/4.7.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
-      "path": "microsoft.dotnetcoremvc/4.7.0",
+      "path": "microsoft.csharp/4.7.0",
       "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.Data.SqlClient/1.1.3": {

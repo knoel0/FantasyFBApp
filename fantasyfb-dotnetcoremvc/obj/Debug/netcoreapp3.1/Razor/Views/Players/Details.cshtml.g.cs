@@ -210,7 +210,7 @@ using FantasyFb.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a70b35ceef839211b4b53aaa43d5680a73e7dcab9807", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a70b35ceef839211b4b53aaa43d5680a73e7dcab10137", async() => {
                 WriteLiteral("Edit");
             }
             );
@@ -241,7 +241,7 @@ using FantasyFb.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral(" |\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a70b35ceef839211b4b53aaa43d5680a73e7dcab11930", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a70b35ceef839211b4b53aaa43d5680a73e7dcab12276", async() => {
                 WriteLiteral("Back to List");
             }
             );

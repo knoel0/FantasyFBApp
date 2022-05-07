@@ -209,7 +209,7 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.dotnetcoremvc/3.3.1": {
+      "Microsoft.CodeAnalysis.CSharp/3.3.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Common": "[3.3.1]"
@@ -385,7 +385,7 @@
           }
         }
       },
-      "Microsoft.dotnetcoremvc/4.7.0": {
+      "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
           "ref/netcoreapp2.0/_._": {}
@@ -3375,10 +3375,10 @@
         "microsoft.codeanalysis.common.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.dotnetcoremvc/3.3.1": {
+    "Microsoft.CodeAnalysis.CSharp/3.3.1": {
       "sha512": "WDUIhTHem38H6VJ98x2Ssq0fweakJHnHYl7vbG8ARnsAwLoJKCQCy78EeY1oRrCKG42j0v6JVljKkeqSDA28UA==",
       "type": "package",
-      "path": "microsoft.codeanalysis.dotnetcoremvc/3.3.1",
+      "path": "microsoft.codeanalysis.csharp/3.3.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3472,10 +3472,10 @@
         "microsoft.codeanalysis.workspaces.common.nuspec"
       ]
     },
-    "Microsoft.dotnetcoremvc/4.7.0": {
+    "Microsoft.CSharp/4.7.0": {
       "sha512": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
       "type": "package",
-      "path": "microsoft.dotnetcoremvc/4.7.0",
+      "path": "microsoft.csharp/4.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
